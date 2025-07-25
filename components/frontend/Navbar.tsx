@@ -8,7 +8,7 @@ import { Logo } from "../global";
 export const Navbar: FC = () => {
   return (
     <>
-      <header className="h-14 lg:h-[60px] bg-blue-900">
+      <header className="h-14 lg:h-[60px] bg-blue-900 border-b border-blue-300/20">
         <div className="container h-full flex items-center justify-between">
           <Logo />
 

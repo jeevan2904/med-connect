@@ -1,3 +1,4 @@
 import { Logo } from "./Logo";
+import { TransitionalText } from "./TransitionalText";
 
-export { Logo };
+export { Logo, TransitionalText };
